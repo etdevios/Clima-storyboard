@@ -9,6 +9,6 @@ import Foundation
 
 struct K {
     struct API {
-        static let openWeatherMapAPIKey = "6e879ca81ef0e27f38403ef140bdf34d"
+        static let openWeatherMapAPIKey = ""
     }
 }
